@@ -1,8 +1,9 @@
 # Hi there, I'm Sbusiso Gift Mtimunye 👋
 
 ### 👨‍💻 About Me
-* 🎓 Final-year **B.Sc in Information Technology** student based in **Pretoria, South Africa**.
-* 🧠 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**.
+* 🎓 **Final-year B.Sc in Information Technology** student at Richfield, based in **Pretoria, South Africa**.
+* 💼 **Data Analyst Intern** at ZaiCode Labs (Work-Integrated Learning).
+* 🧠 **Passionate about **Artificial Intelligence, Machine Learning, and Data Science**.
 * 🌍 **CCAI 2026 Cohort Member** (Climate Change AI Virtual Summer School).
 * 📜 **IBM SkillsBuild Certified** in AI Literacy.
 * 🛠️ Currently building: **VulaWavs** (Sign Language Translation Software) & Multimodal AI Agents.
@@ -11,8 +12,8 @@
 
 ### 🛠️ Tech Stack & Skills
 * **Languages:** Python, SQL, Java, C++
-* **Data & AI:** Data Engineering, Pipeline Design, Machine Learning, Data Analytics
-* **Tools & Frameworks:** FastAPI, PyCharm, Git/GitHub, Spreadsheets
+* **Data & AI:** Data Engineering, Pipeline Design, Machine Learning, Data Analytics, Pandas, NumPy
+* **Tools & Frameworks:** FastAPI, OpenCV, MediaPipe, FAISS, LangChain, PyCharm, Git/GitHub, Spreadsheets
 
 ---
 
@@ -24,4 +25,4 @@
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/sbusiso-mtimunye-5a5451254/)
+* **LinkedIn:** [sbusiso-mtimunye-5a5451254](https://www.linkedin.com/in/sbusiso-mtimunye-5a5451254/)
