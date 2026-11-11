@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 * 🎓 **Final-year B.Sc in Information Technology** student at Richfield, based in **Pretoria, South Africa**.
 * 💼 **Data Analyst Intern** at ZaiCode Labs (Work-Integrated Learning).
-* 🧠 **Passionate about **Artificial Intelligence, Machine Learning, and Data Science**.
+* 🧠 **Passionate about** **Artificial Intelligence, Machine Learning, and Data Science**.
 * 🌍 **CCAI 2026 Cohort Member** (Climate Change AI Virtual Summer School).
 * 📜 **IBM SkillsBuild Certified** in AI Literacy.
 * 🛠️ Currently building: **VulaWavs** (Sign Language Translation Software) & Multimodal AI Agents.
